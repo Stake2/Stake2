@@ -31,7 +31,7 @@
 - He/Him
 
 ###  ⚡ Fun fact:
-- I love Dubstep, music, My Little Pony, programming, playing games on my computer, watching anime and movies, drinking water.
+- I love writing, reading, programming, making websites, drawing, editing videos, watch anime, cartoons, series, movies, videos, playing games, listening to music, Dubstep, and My Little Pony.
 
 ### 💡️ Technologies:
   <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
