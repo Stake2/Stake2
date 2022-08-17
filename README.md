@@ -47,7 +47,7 @@
 
 <br />
 
-<img align="left" alt="Stake2's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=stake2&show_icons=true&hide_border=true" />
+<img align="left" alt="Stake2's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Stake2&show_icons=true&hide_border=true" />
 
 <!--
 **stake2/stake2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
