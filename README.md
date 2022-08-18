@@ -32,7 +32,7 @@
 - I love writing, reading, programming, making websites, drawing, editing videos, watch anime, cartoons, series, movies, videos, playing games, listening to music, Dubstep, and My Little Pony.
 
 ###  🔗 Social media:
-- [Twitter](https://github-readme-stats.vercel.app/api/top-langs/?username=Stake2&layout=compact)
+- [Twitter](https://twitter.com/Stake2_)
 
 ### 💡️ Technologies:
   <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
