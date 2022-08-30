@@ -48,8 +48,6 @@
 <br />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stake2&theme=radical" alt="Stake2" />
 
-![](./profile-3d-contrib/profile-night-green.svg)
-
 <h3 align="center">
 	⬇ Check my pinned projects below and leave a ⭐️ ⬇
 </h3>
