@@ -1,6 +1,6 @@
 ### Hello 👋, I'm Stake2, a student and a developer
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Stake2)<br><br>
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=Stake2.visitor-badge)](https://github.com/Stake2)<br><br>
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/Stake2)<br>
+
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Stake2)<br>
 
 ### 🛠️ Skills
