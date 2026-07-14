@@ -52,4 +52,5 @@
 📊 Contributions
 <br><br>
 
-	⬇ Check my pinned projects below and leave a ⭐️ (star) ⬇</h3>
+	⬇ Check my pinned projects below and leave a ⭐️ (star) ⬇
+</h3>
